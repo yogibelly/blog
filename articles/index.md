@@ -5,7 +5,7 @@ excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
 
-<form action="//formspree.io/sahir.bhatnagar@gmail.com"
+<form action="//formspree.io/sahirbhatnagar@gmail.com"
       method="POST">
     <input type="text" name="name" placeholder="Your Name *"><BR>
     <input type="email" name="_replyto" placeholder="Your Email *"><BR>
