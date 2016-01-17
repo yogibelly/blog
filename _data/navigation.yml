@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Home
+- title: yogibelly.com
   url: http://yogibelly.com/
 
 - title: Blog
@@ -9,8 +9,8 @@
 #- title: About
 #  url: /about/
 
-- title: Form
-  url: /articles/
+#- title: Form
+#  url: /articles/
 
 #- title: Theme Setup
 #  url: /theme-setup/
