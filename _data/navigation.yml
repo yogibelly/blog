@@ -1,13 +1,16 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Home
+  url: http://yogibelly.com/
+
+- title: Blog
+  url: 
+
+#- title: About
+#  url: /about/
 
 - title: Form
   url: /articles/
-
-- title: Blog
-  url: /blog/
 
 #- title: Theme Setup
 #  url: /theme-setup/

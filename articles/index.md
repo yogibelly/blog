@@ -1,15 +1,16 @@
 ---
 layout: page
-title: Testing Formspree
+title: Testing Formkeep
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 ---
 
-<form action="//formspree.io/sahirbhatnagar@gmail.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name *"><BR>
-    <input type="email" name="_replyto" placeholder="Your Email *"><BR>
-    <input type="submit" value="Send">
+<form accept-charset="UTF-8" action="https://formkeep.com/f/608e3a01b650" method="POST">
+	<input type="hidden" name="utf8" value="✓"><br>
+	<input type="email" name="email" placeholder="Your Email"><br>
+	<input type="text" name="full_name" placeholder="Your Name"><br>
+	<input type="url" name="website" placeholder="Your Website"><br>
+	<button type="submit">Submit</button>
 </form>
 
 <!--
